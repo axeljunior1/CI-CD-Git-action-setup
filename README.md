@@ -1,2 +1,11 @@
 # CI-CD-Git-action-setup
-seting up ci/cd projet
+
+* Set up spring boot app
+* Push to github
+* Add an configure Github action workflow to clean and install packages
+* Build docker images
+* Push docker image to docker hub
+
+
+## Build 
+mvn clean install
