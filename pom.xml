@@ -49,6 +49,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>spring-boot-image-for-docker</finalName>
 	</build>
 
 </project>
