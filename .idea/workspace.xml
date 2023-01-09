@@ -4,16 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9231906-c4be-45b7-9ac6-7f41a0f7a112" name="Changes" comment="set environement credent">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfille" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfille" afterDir="false" />
-    </list>
+    <list default="true" id="b9231906-c4be-45b7-9ac6-7f41a0f7a112" name="Changes" comment="dockerfile" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -66,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673245928950</updated>
       <workItem from="1673245929759" duration="657000" />
-      <workItem from="1673246705779" duration="2095000" />
+      <workItem from="1673246705779" duration="2585000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1673246148799</created>
@@ -117,7 +120,28 @@
       <option name="project" value="LOCAL" />
       <updated>1673248891754</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="dockerfile">
+      <created>1673248959687</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1673248959687</updated>
+    </task>
+    <task id="LOCAL-00009" summary="dockerfile">
+      <created>1673249187781</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673249187781</updated>
+    </task>
+    <task id="LOCAL-00010" summary="dockerfile">
+      <created>1673249408577</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1673249408577</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +189,7 @@
     <MESSAGE value="start" />
     <MESSAGE value="start e" />
     <MESSAGE value="set environement credent" />
-    <option name="LAST_COMMIT_MESSAGE" value="set environement credent" />
+    <MESSAGE value="dockerfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="dockerfile" />
   </component>
 </project>
