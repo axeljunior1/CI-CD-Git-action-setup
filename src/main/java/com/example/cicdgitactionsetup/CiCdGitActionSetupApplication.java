@@ -11,7 +11,7 @@ public class CiCdGitActionSetupApplication {
 
     @GetMapping("/")
     String Greet() {
-        return "Hello Axel !";
+        return "Hello Axel ! \nAre you fine ?";
     }
 
     public static void main(String[] args) {
