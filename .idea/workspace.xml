@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9231906-c4be-45b7-9ac6-7f41a0f7a112" name="Changes" comment="dockerfile" />
+    <list default="true" id="b9231906-c4be-45b7-9ac6-7f41a0f7a112" name="Changes" comment="java version correction" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +51,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Axel\Desktop\Work\CI-CD-Git-action-setup" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="CiCdGitActionSetupApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="CI-CD-Git-action-setup" />
@@ -69,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673245928950</updated>
       <workItem from="1673245929759" duration="657000" />
-      <workItem from="1673246705779" duration="2585000" />
+      <workItem from="1673246705779" duration="3490000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1673246148799</created>
@@ -141,7 +146,28 @@
       <option name="project" value="LOCAL" />
       <updated>1673249408577</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Dockerfile correct">
+      <created>1673249712785</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1673249712785</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Dockerfile correct">
+      <created>1673249738784</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1673249738784</updated>
+    </task>
+    <task id="LOCAL-00013" summary="java version correction">
+      <created>1673250691205</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1673250691205</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +216,8 @@
     <MESSAGE value="start e" />
     <MESSAGE value="set environement credent" />
     <MESSAGE value="dockerfile" />
-    <option name="LAST_COMMIT_MESSAGE" value="dockerfile" />
+    <MESSAGE value="Dockerfile correct" />
+    <MESSAGE value="java version correction" />
+    <option name="LAST_COMMIT_MESSAGE" value="java version correction" />
   </component>
 </project>
